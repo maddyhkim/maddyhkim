@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Hi! My name is Madeleine Kim, and I'm a junior at UC Berkeley studying Computer Science and Music, on track to graduate in Spring 2027. I'm interested in software engineering, machine learning, and data science, and I'm actively seeking out more experience in these roles! Please feel free to reach out or email me at madeleinekim@berkeley.edu.
+Hi! My name is Madeleine Kim, and I'm a junior at UC Berkeley studying Computer Science and Music, on track to graduate in Spring 2027. I'm interested in software engineering, machine learning, and data science, and I'm actively seeking out more experience in these roles! Outside of school, I enjoy playing the cello, swimming, and exploring new restaurants and cafes in Berkeley and San Francisco (I love a good banana cream matcha)!
 
 ---
 
@@ -33,4 +33,5 @@ Structure and Interpretation of Computer Programs, Data Structures, Efficient Al
 
 ## 📫 Let's Connect!
 
-I’m always open to collaborating on projects, research, or discussing new opportunities. Feel free to reach out!
+I’m always open to collaborating on projects, research, or discussing new opportunities. Please feel free to reach out or email me at madeleinekim@berkeley.edu!
+
